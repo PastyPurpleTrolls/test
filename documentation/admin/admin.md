@@ -1,13 +1,7 @@
-<div class="row center">
-    <div class="container center display-container col-md-offset-1 col-md-10">
-		<h1 class="headings row left">Admin Capabilities</h1>		
-		<div class="row left">
-			<ul>
-				<li>All Student and Contest Creator Capabilities</li>
-				<li>Deleting Users</li>
-				<li>Changing User Roles</li>                
-			</ul>
-		</div>
-        <div class="left"><a href="/help/student"><u>View Terminology in Student Documentation</u></a></div>		
-	</div>
-</div>
+# Admin Capabilities
+
+- A Student and Contest Creator Capabilities
+- Deleting Users
+- Changing User Roles
+
+[View Terminology in Student Documentation](https://github.com/PastyPurpleTrolls/game-contest-server/blob/master/documentation/student/student.md)
